@@ -14,7 +14,7 @@
 1. リポジトリのクローン
 
    ```bash
-   git clone https://github.com/Miria089/ECGClassification.git
+   git clone https://github.com/TabibitoDK/ECGClassification.git
    ```
 
 2. uvのインストール
@@ -60,7 +60,7 @@
 2. リポジトリのクローン
 
    ```bash
-   !git clone https://{PAT}@github.com/Miria089/ECGClassification.git
+   !git clone https://github.com/TabibitoDK/ECGClassification.git
    %cd ECGClassification
    ```
 
