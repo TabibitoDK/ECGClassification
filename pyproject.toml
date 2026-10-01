@@ -1,0 +1,16 @@
+[project]
+name = "ecgclassification"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "numpy<2.0.0",
+    "pandas>=2.3.1",
+    "pywavelets>=1.8.0",
+    "scikit-learn>=1.7.1",
+    "tensorboard>=2.18.0",
+    "torch>=2.7.1",
+    "tqdm>=4.67.1",
+]
